@@ -1,5 +1,3 @@
-# airline-passenger-satisfaction
-
 # ✈️ Airline Passenger Satisfaction Analysis
 
 End-to-end data analysis on 129,880 airline passenger records to identify 
