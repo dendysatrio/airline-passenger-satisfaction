@@ -30,6 +30,12 @@ for the **Head of Customer Experience** to support better resource allocation.
 
 ---
 
+## 🔗 Live Dashboard
+
+👉 [View on Tableau Public](https://public.tableau.com/views/AirlinePassengerDashboardDendySatrio/AirlinePassengerDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+---
+
 ## 🛠️ Tools Used
 
 | Tool | Purpose |
