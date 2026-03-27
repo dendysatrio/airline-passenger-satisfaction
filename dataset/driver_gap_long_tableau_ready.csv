@@ -1,0 +1,144 @@
+Driver,Driver_Gap,Segment,Segment_Type
+Departure and Arrival Time Convenience,0.04512973912360918,Business,Class
+Check-in Service,0.8682232295395815,Business,Class
+Online Boarding,1.3514221816678873,Business,Class
+Seat Comfort,1.0978733748115874,Business,Class
+Leg Room Service,1.1352700072482698,Business,Class
+Cleanliness,1.0805583865915591,Business,Class
+Food and Drink,0.6287685422637908,Business,Class
+In-flight Service,0.926343290812603,Business,Class
+In-flight Wifi Service,0.5384202573810319,Business,Class
+In-flight Entertainment,1.3607777111411177,Business,Class
+Baggage Handling,0.9255979577294644,Business,Class
+Departure and Arrival Time Convenience,-0.09701869454228884,Economy,Class
+Check-in Service,0.12200844418051737,Economy,Class
+Online Boarding,1.064089833053492,Economy,Class
+Seat Comfort,0.43383773369877776,Economy,Class
+Leg Room Service,0.2232025158899793,Economy,Class
+Cleanliness,0.47324214867942604,Economy,Class
+Food and Drink,0.5024034618937057,Economy,Class
+In-flight Service,0.024974534128463954,Economy,Class
+In-flight Wifi Service,1.4724453432060076,Economy,Class
+In-flight Entertainment,0.6444405505535604,Economy,Class
+Baggage Handling,0.030057895675183577,Economy,Class
+Departure and Arrival Time Convenience,-0.25769148343405757,Economy Plus,Class
+Check-in Service,0.11042389953281084,Economy Plus,Class
+Online Boarding,1.0543611504007542,Economy Plus,Class
+Seat Comfort,0.723762376237624,Economy Plus,Class
+Leg Room Service,0.22068063949252092,Economy Plus,Class
+Cleanliness,0.8123398054091124,Economy Plus,Class
+Food and Drink,0.8187947366165189,Economy Plus,Class
+In-flight Service,-0.0896661094680895,Economy Plus,Class
+In-flight Wifi Service,1.4651236552226652,Economy Plus,Class
+In-flight Entertainment,1.0325061077536324,Economy Plus,Class
+Baggage Handling,-0.0773563070592771,Economy Plus,Class
+Departure and Arrival Time Convenience,0.4414823220655024,First-time,Customer Type
+Check-in Service,0.6710820735106329,First-time,Customer Type
+Online Boarding,1.201843664480264,First-time,Customer Type
+Seat Comfort,0.024844504960252145,First-time,Customer Type
+Leg Room Service,0.21771741879950568,First-time,Customer Type
+Cleanliness,0.03353680564235795,First-time,Customer Type
+Food and Drink,0.09445381518772011,First-time,Customer Type
+In-flight Service,0.5296580708627934,First-time,Customer Type
+In-flight Wifi Service,1.3298820753208016,First-time,Customer Type
+In-flight Entertainment,0.07139234576466569,First-time,Customer Type
+Baggage Handling,0.5394037999183241,First-time,Customer Type
+Departure and Arrival Time Convenience,-0.417368024488463,Returning,Customer Type
+Check-in Service,0.6023831812699663,Returning,Customer Type
+Online Boarding,1.335157984626314,Returning,Customer Type
+Seat Comfort,1.0209287189044516,Returning,Customer Type
+Leg Room Service,0.9368477190320852,Returning,Customer Type
+Cleanliness,0.9265450147121097,Returning,Customer Type
+Food and Drink,0.6331305249586805,Returning,Customer Type
+In-flight Service,0.6269017992044064,Returning,Customer Type
+In-flight Wifi Service,0.6943710751739434,Returning,Customer Type
+In-flight Entertainment,1.216685547972645,Returning,Customer Type
+Baggage Handling,0.6385825490305477,Returning,Customer Type
+Departure and Arrival Time Convenience,-0.18160360004797127,Minor Delay,Delay Severity
+Check-in Service,0.6672072150073594,Minor Delay,Delay Severity
+Online Boarding,1.3992808332645352,Minor Delay,Delay Severity
+Seat Comfort,0.9914109527222612,Minor Delay,Delay Severity
+Leg Room Service,0.8861053631184648,Minor Delay,Delay Severity
+Cleanliness,0.8521824404607119,Minor Delay,Delay Severity
+Food and Drink,0.5707709209454856,Minor Delay,Delay Severity
+In-flight Service,0.6157414420285932,Minor Delay,Delay Severity
+In-flight Wifi Service,0.7449471180004079,Minor Delay,Delay Severity
+In-flight Entertainment,1.1245013597121152,Minor Delay,Delay Severity
+Baggage Handling,0.6337252361368373,Minor Delay,Delay Severity
+Departure and Arrival Time Convenience,-0.18518008984554468,Major Delay,Delay Severity
+Check-in Service,0.7752522878115546,Major Delay,Delay Severity
+Online Boarding,1.4094281003862155,Major Delay,Delay Severity
+Seat Comfort,1.027279600007803,Major Delay,Delay Severity
+Leg Room Service,0.8032412361143559,Major Delay,Delay Severity
+Cleanliness,0.9262829074825687,Major Delay,Delay Severity
+Food and Drink,0.793301212422945,Major Delay,Delay Severity
+In-flight Service,0.6671481462002951,Major Delay,Delay Severity
+In-flight Wifi Service,0.7769661285383895,Major Delay,Delay Severity
+In-flight Entertainment,1.0918588713192436,Major Delay,Delay Severity
+Baggage Handling,0.6504650040454125,Major Delay,Delay Severity
+Departure and Arrival Time Convenience,-0.1607656200576728,On Time,Delay Severity
+Check-in Service,0.531030294996282,On Time,Delay Severity
+Online Boarding,1.3433772721334352,On Time,Delay Severity
+Seat Comfort,0.8721914147970122,On Time,Delay Severity
+Leg Room Service,0.8125304928418577,On Time,Delay Severity
+Cleanliness,0.7669359529629847,On Time,Delay Severity
+Food and Drink,0.507311684288609,On Time,Delay Severity
+In-flight Service,0.5349005460650038,On Time,Delay Severity
+In-flight Wifi Service,0.7602240606544473,On Time,Delay Severity
+In-flight Entertainment,1.0396343607347984,On Time,Delay Severity
+Baggage Handling,0.5553439435403535,On Time,Delay Severity
+Departure and Arrival Time Convenience,-0.27153300258813307,Older Adult,Age Band
+Check-in Service,0.756377950858889,Older Adult,Age Band
+Online Boarding,1.184242560503956,Older Adult,Age Band
+Seat Comfort,0.9528981272710211,Older Adult,Age Band
+Leg Room Service,1.3088735641999771,Older Adult,Age Band
+Cleanliness,0.8897973003806143,Older Adult,Age Band
+Food and Drink,0.4527262583992018,Older Adult,Age Band
+In-flight Service,0.9337547896230909,Older Adult,Age Band
+In-flight Wifi Service,0.6739654315852719,Older Adult,Age Band
+In-flight Entertainment,1.260297902590422,Older Adult,Age Band
+Baggage Handling,0.9418259221442034,Older Adult,Age Band
+Departure and Arrival Time Convenience,-0.01715807009992254,Adult,Age Band
+Check-in Service,0.5920485581715367,Adult,Age Band
+Online Boarding,1.4461093851025142,Adult,Age Band
+Seat Comfort,1.042020662456589,Adult,Age Band
+Leg Room Service,0.8174477160047195,Adult,Age Band
+Cleanliness,0.9059014480502223,Adult,Age Band
+Food and Drink,0.6487059613299433,Adult,Age Band
+In-flight Service,0.5421113435521594,Adult,Age Band
+In-flight Wifi Service,0.7373675706605978,Adult,Age Band
+In-flight Entertainment,1.1846056845005033,Adult,Age Band
+Baggage Handling,0.562326010384421,Adult,Age Band
+Departure and Arrival Time Convenience,-0.3692329190504373,Senior,Age Band
+Check-in Service,0.4277857236798841,Senior,Age Band
+Online Boarding,0.8285994936542385,Senior,Age Band
+Seat Comfort,0.5562035575721707,Senior,Age Band
+Leg Room Service,1.1143387913460905,Senior,Age Band
+Cleanliness,0.5829396001841256,Senior,Age Band
+Food and Drink,0.3428585519826397,Senior,Age Band
+In-flight Service,0.6905430065101599,Senior,Age Band
+In-flight Wifi Service,0.7881460840402443,Senior,Age Band
+In-flight Entertainment,1.02862661932005,Senior,Age Band
+Baggage Handling,0.7107466956007102,Senior,Age Band
+Departure and Arrival Time Convenience,-0.11835537376869398,Young Adult,Age Band
+Check-in Service,0.547100941489921,Young Adult,Age Band
+Online Boarding,1.409631080506137,Young Adult,Age Band
+Seat Comfort,0.6785053196716127,Young Adult,Age Band
+Leg Room Service,0.1338827844056487,Young Adult,Age Band
+Cleanliness,0.6729846540897717,Young Adult,Age Band
+Food and Drink,0.7096100897882751,Young Adult,Age Band
+In-flight Service,0.32453900999170804,Young Adult,Age Band
+In-flight Wifi Service,0.9209204778465439,Young Adult,Age Band
+In-flight Entertainment,0.6784360842992632,Young Adult,Age Band
+Baggage Handling,0.3173448838361428,Young Adult,Age Band
+Departure and Arrival Time Convenience,-0.22275495507187681,Teen,Age Band
+Check-in Service,0.3101853737272475,Teen,Age Band
+Online Boarding,1.3398606844052012,Teen,Age Band
+Seat Comfort,0.45969290600336965,Teen,Age Band
+Leg Room Service,0.04471472674288046,Teen,Age Band
+Cleanliness,0.492297140964737,Teen,Age Band
+Food and Drink,0.5140737243389073,Teen,Age Band
+In-flight Service,0.12236978228488615,Teen,Age Band
+In-flight Wifi Service,1.0727913167553895,Teen,Age Band
+In-flight Entertainment,0.49041416516931147,Teen,Age Band
+Baggage Handling,0.1350134295817771,Teen,Age Band
